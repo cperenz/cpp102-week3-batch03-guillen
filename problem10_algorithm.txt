@@ -1,0 +1,6 @@
+Problem 10: Bus Seat Number Check
+
+Step 1: Start 
+Step 2: Asks for a seat number
+Step 3: Asks for the displays "Even" if the number is divisible by 2
+Step 4: Ask for the "Odd" otherwise

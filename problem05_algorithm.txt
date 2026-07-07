@@ -1,0 +1,7 @@
+Problem 5: Online Shopping Cart total
+
+Step 1: Start
+Step 2: Ask for the price
+Step 3: Ask for the quantity of each of the three items
+Step 4: Ask for the computes the total computes
+Step 5: Displays the result

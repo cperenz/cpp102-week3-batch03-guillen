@@ -1,0 +1,8 @@
+Problem 6: Total Travel Cost 
+
+Step 1: Start.
+Step 2: Ask for the fare
+Step 3: Ask for the toll fee 
+Step 4: Ask for the fuel cost 
+Step 5: Ask for the computes the total travel cost 
+Step 6: Displays the result

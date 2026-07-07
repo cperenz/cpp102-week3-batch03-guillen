@@ -1,0 +1,7 @@
+Problem 9: Elevation Reading Classification
+
+Step 1: Start
+Step 2: Ask for an elevation reading 
+Step 3: Ask for the Displays "Above Sea Level" if it is greater than 0
+Step 4: Ask for the "Below Sea Level" if it is less than 0
+Step 5: Ask for the "At Sea Level" if it is exactly 0

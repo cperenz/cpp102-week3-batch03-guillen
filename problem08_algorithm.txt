@@ -1,0 +1,6 @@
+Problem 8: Senior Citizen Discount Eligibility
+
+Step 1: Start
+Step 2: Ask for a customer's age 
+Step 3: Ask for the displays "Eligible for senior Discount" if the age is 60 or above
+Step 4: Ask for the "Not Eligible for Senior Discount"

@@ -1,0 +1,6 @@
+Problem 7: Semester Standing Computation 
+
+Step 1: Start
+Step 2: Ask for the three scores 
+Step 3: Ask for the computes the semester standing
+Step 4: Display the result 
